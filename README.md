@@ -15,6 +15,3 @@ https://rinkeby.etherscan.io/
 
 https://rinkeby.etherscan.io/address/0x0Fc0D2c6FC275faE9A317A57c4B6eEa68C2518D4
 
-https://infura.io/
-user: 
-pass: 88!
